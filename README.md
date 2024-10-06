@@ -21,19 +21,13 @@
   <img src="https://komarev.com/ghpvc/?username=your-username&style=for-the-badge&color=brightgreen&borderRadius=20" alt="Profile Views" />
 </p>
 
+## Most used Technologies
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shoaibkhan20&layout=compact&theme=radical&borderRadius=20" alt="Top Languages" />
+
 ## 📊 GitHub Stats
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=shoaibkhan20&show_icons=true&theme=radical&borderRadius=20" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shoaibkhan20&layout=compact&theme=radical&borderRadius=20" alt="Top Languages" />
   <img src="https://streak-stats.demolab.com/?user=shoaibkhan20&theme=radical&borderRadius=20" alt="GitHub Streak" />
 </p>
 
-## 🔥 Featured Projects
-<p align="left">
-  <a href="https://github.com/shoaibkhan20/project1">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=shoaibkhan20&repo=project1&theme=radical&borderRadius=20" alt="Project 1" />
-  </a>
-  <a href="https://github.com/shoaibkhan20/project2">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=shoaibkhan20&repo=project2&theme=radical&borderRadius=20" alt="Project 2" />
-  </a>
-</p>
