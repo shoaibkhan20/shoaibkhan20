@@ -3,10 +3,10 @@
 ## 🚀 About Me
 I'm a [your role or what you're learning] with a passion for [mention your interests or specialties].
 
-- 🌱 I’m currently learning [what you're focusing on]
+- 🌱 I’m currently learning [React jS]
 - 👯 I’m looking to collaborate on [open-source projects, new ventures, etc.]
-- 💬 Ask me about [topics you're knowledgeable in]
-- 📫 How to reach me: [Your email/social links]
+- 💬 Ask me about Javascript , ReactJS , Next JS.
+- 📫 How to reach me: [muhammadshoaibk065@gmail.com]
 
 ## 🛠️ Tech Stack
 ![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat&logo=typescript&logoColor=white)
