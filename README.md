@@ -21,13 +21,12 @@
   <img src="https://komarev.com/ghpvc/?username=your-username&style=for-the-badge&color=brightgreen&borderRadius=20" alt="Profile Views" />
 </p>
 
-## Most used Technologies
+## 🛠️ Most used Technologies
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shoaibkhan20&layout=compact&theme=radical&borderRadius=20" alt="Top Languages" />
 
 ## 📊 GitHub Stats
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=shoaibkhan20&show_icons=true&theme=radical&borderRadius=20" alt="GitHub Stats" />
-  <img src="https://streak-stats.demolab.com/?user=shoaibkhan20&theme=radical&borderRadius=20" alt="GitHub Streak" />
 </p>
 
