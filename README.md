@@ -1,30 +1,23 @@
-# Hi there, I'm [Your Name] 👋
-
-### About Me
-I'm a passionate developer with experience in [Your Skills]. Currently exploring [Current Interests/Technologies].
+# Hi there, I'm Muhammad shoaib 👋
 
 ### Technologies & Tools
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+<a href="https://www.python.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/></a>
+<a href="https://www.javascript.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/></a>
+<a href="https://reactjs.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="40" height="40"/></a>
+<a href="https://nodejs.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="Node.js" width="40" height="40"/></a>
+<a href="https://git-scm.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="40" height="40"/></a>
+<a href="https://www.w3.org/html/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="40" height="40"/></a>
+<a href="https://www.w3.org/Style/CSS/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" width="40" height="40"/></a>
 
 ### GitHub Stats
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical)
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=shoaibkhan20&show_icons=true&theme=radical)
 
 ### Connect with me
-- [LinkedIn](your-linkedin-url)
-- [Twitter](your-twitter-url)
-- [Personal Website](your-website-url)
+<a href="https://www.linkedin.com/in/muhammadshoaib10/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="40" height="40"/></a>
+<a href="shoaib-khan.netlify.app" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="Website" width="40" height="40"/></a>
+<a href="https://www.instagram.com/shoaib_ikhan/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/instagram/instagram-original.svg" alt="Instagram" width="40" height="40"/></a>
+<a href="[your-facebook-url](https://www.facebook.com/profile.php?id=100013602459277)" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/facebook/facebook-original.svg" alt="Facebook" width="40" height="40"/></a>
+<a href="https://wa.me/+923326958702" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/whatsapp/whatsapp-original.svg" alt="WhatsApp" width="40" height="40"/></a>
 
-### Current Projects
-- [Project 1 Name](link-to-your-project-1) - Brief description of project 1.
-- [Project 2 Name](link-to-your-project-2) - Brief description of project 2.
-- [Project 3 Name](link-to-your-project-3) - Brief description of project 3.
-
-### Fun Fact
-I love [insert fun fact or hobby here]!
-
+### Fun Facts
+- I love Coding
