@@ -15,9 +15,9 @@
 ### Connect with me
 <a href="https://www.linkedin.com/in/muhammadshoaib10/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="40" height="40"/></a>
 <a href="shoaib-khan.netlify.app" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="Website" width="40" height="40"/></a>
-<a href="https://www.instagram.com/shoaib_ikhan/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/instagram/instagram-original.svg" alt="Instagram" width="40" height="40"/></a>
+<a href="https://www.instagram.com/shoaib_ikhan/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png" alt="Instagram" width="40" height="40"/></a>
 <a href="[your-facebook-url](https://www.facebook.com/profile.php?id=100013602459277)" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/facebook/facebook-original.svg" alt="Facebook" width="40" height="40"/></a>
-<a href="https://wa.me/+923326958702" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/whatsapp/whatsapp-original.svg" alt="WhatsApp" width="40" height="40"/></a>
+<a href="https://wa.me/+923326958702" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/6/6b/WhatsApp.svg" alt="WhatsApp" width="40" height="40"/></a>
 
 ### Fun Facts
 - I love Coding
