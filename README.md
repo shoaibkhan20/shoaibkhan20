@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Muhammad Shoaib 👋</h1>
 
 <p align="center">
-  🚀 Full-stack Developer | 💻 Computer Science Student | ⚛️ React Enthusiast
+  🚀 Full-stack Developer | 💻 Software Engineer | ⚛️ React Enthusiast
 </p>
 
 ---
