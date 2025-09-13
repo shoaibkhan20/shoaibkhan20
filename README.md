@@ -29,11 +29,19 @@ I love turning ideas into reality through clean, efficient code and continuously
 ---
 
 ## 📊 GitHub Stats
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shoaibkhan20&show_icons=true&locale=en&layout=compact" alt="shoaibkhan20" /></p>
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=shoaibkhan20&show_icons=true&theme=radical" alt="GitHub Stats"/>
-</p>
+<table>
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs?username=shoaibkhan20&show_icons=true&locale=en&layout=compact&theme=radical" alt="Top Languages"/>
+    </td>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=shoaibkhan20&show_icons=true&theme=radical" alt="GitHub Stats"/>
+    </td>
+  </tr>
+</table>
+
+
 
 ---
 
