@@ -1,64 +1,69 @@
-<h1 align="center">Hi there, I'm Muhammad Shoaib 👋</h1>
+<div align="center">
 
-<p align="center">
-  🚀 Full-stack Developer | 💻 Software Engineer | ⚛️ React Enthusiast
-</p>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:2C5364,100:2F81F7&height=220&section=header&text=Muhammad%20Shoaib&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20Laravel%20%2B%20React%20%2B%20Next.js&descAlignY=58&descSize=18" />
 
----
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=2F81F7&center=true&vCenter=true&width=600&lines=Building+clean%2C+scalable+web+apps;Laravel+%E2%80%A2+React+%E2%80%A2+Next.js+%E2%80%A2+MySQL;Always+shipping%2C+always+learning" />
 
-## 👨‍💻 About Me
+<br/>
 
-I’m a passionate **Full-Stack Web Developer**.  
-I specialize in building modern web applications using **React JS**, **Next.js**, **JavaScript**, **Express** and **Laravel**.  
-I love turning ideas into reality through clean, efficient code and continuously strive to improve my skills across the full development stack.
+<a href="https://www.linkedin.com/in/muhammadshoaib10/"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="https://wa.me/+923326958702"><img src="https://img.shields.io/badge/-WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/></a>
+<a href="https://www.instagram.com/shoaib_ikhan/"><img src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
+<a href="https://www.facebook.com/profile.php?id=100013602459277"><img src="https://img.shields.io/badge/-Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/></a>
 
----
+</div>
 
-## 🛠️ Technologies & Tools
+<br/>
 
-<p align="left">
-  <a href="https://www.python.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/></a>
-  <a href="https://www.javascript.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/></a>
-  <a href="https://reactjs.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="40" height="40"/></a>
-  <a href="https://nodejs.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="Node.js" width="40" height="40"/></a>
-  <a href="https://git-scm.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="40" height="40"/></a>
-  <a href="https://www.w3.org/html/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="40" height="40"/></a>
-  <a href="https://www.w3.org/Style/CSS/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" width="40" height="40"/></a>
-</p>
+## ⚡ About
 
----
+```js
+const shoaib = {
+  role: "Full-Stack Developer",
+  stack: ["Laravel", "PHP", "React", "Next.js", "MySQL"],
+  focus: "clean architecture & shipping fast",
+  currentGoal: "pursuing a Master's abroad, targeting Germany",
+};
+```
 
-## 📊 GitHub Stats
+<br/>
 
-<table>
-  <tr>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs?username=shoaibkhan20&show_icons=true&locale=en&layout=compact&theme=radical" alt="Top Languages"/>
-    </td>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=shoaibkhan20&show_icons=true&theme=radical" alt="GitHub Stats"/>
-    </td>
-  </tr>
-</table>
+## 🧰 Stack
 
+<div align="center">
 
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
----
+</div>
 
-## 📫 Connect with Me
+<br/>
 
-<p align="left">
-  <a href="https://www.linkedin.com/in/muhammadshoaib10/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="40" height="40"/></a>
-  <a href="https://www.instagram.com/shoaib_ikhan/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png" alt="Instagram" width="40" height="40"/></a>
-  <a href="https://www.facebook.com/profile.php?id=100013602459277" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/facebook/facebook-original.svg" alt="Facebook" width="40" height="40"/></a>
-  <a href="https://wa.me/+923326958702" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/6/6b/WhatsApp.svg" alt="WhatsApp" width="40" height="40"/></a>
-</p>
+## 📈 GitHub Activity
 
----
+<div align="center">
 
-## 🎯 Fun Facts
+### 📊 Activity
 
-- 💻 I love solving problems through code  
-- 🌱 Always learning something new  
-- 🧠 JavaScript is my playground  
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=shoaibkhan20&theme=react-dark&hide_border=true&area=true" width="95%"/>
 
+<br/>
+
+<img src="https://github-readme-stats.vercel.app/api?username=shoaibkhan20&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10" width="48%"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=shoaibkhan20&theme=tokyonight&hide_border=true&border_radius=10" width="40%"/>
+
+<br/>
+
+<img src="https://github-profile-trophy.vercel.app/?username=shoaibkhan20&theme=darkhub&no-frame=true&row=1&column=6&margin-w=8" />
+
+</div>
+
+<div align="center">
+<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" width="90%"/>
+</div>
