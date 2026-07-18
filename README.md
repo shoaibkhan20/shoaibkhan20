@@ -53,17 +53,6 @@ const shoaib = {
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=shoaibkhan20&theme=react-dark&hide_border=true&area=true" width="95%"/>
 
-<br/>
 
-<img src="https://github-readme-stats.vercel.app/api?username=shoaibkhan20&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10" width="48%"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=shoaibkhan20&theme=tokyonight&hide_border=true&border_radius=10" width="40%"/>
 
-<br/>
 
-<img src="https://github-profile-trophy.vercel.app/?username=shoaibkhan20&theme=darkhub&no-frame=true&row=1&column=6&margin-w=8" />
-
-</div>
-
-<div align="center">
-<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" width="90%"/>
-</div>
