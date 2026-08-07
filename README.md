@@ -34,38 +34,19 @@
 
 ```javascript
 const shoaib = {
+
   role: "Full-Stack Web Developer",
-  location: "Pakistan 🇵🇰",
+  location: "Pakistan",
 
-  backend: [
-    "Laravel",
-    "PHP",
-    "Node.js"
-  ],
+  backend: ["Laravel", "PHP", "Node.js"],
 
-  frontend: [
-    "React",
-    "Next.js",
-    "JavaScript",
-    "TypeScript"
-  ],
+  frontend: ["React", "Next.js", "JavaScript", "TypeScript"],
 
-  database: [
-    "MySQL"
-  ],
+  database: ["MySQL", "MongoDB", "SupaBase"],
 
-  tools: [
-    "Git",
-    "GitHub",
-    "VS Code"
-  ],
+  tools: ["Git", "GitHub","Docker", "Google Anti-gravity"],
 
-  currentlyLearning: [
-    "Docker",
-    "System Design",
-    "AI Integration"
-  ],
-
+  currentlyLearning: ["System Design", "AI Integration"],
 
   funFact: "I enjoy building production-ready web applications."
 }
@@ -74,10 +55,9 @@ const shoaib = {
 ---
 
 # 🚀 Tech Stack
-
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=laravel,php,react,nextjs,nodejs,js,ts,mysql,git,github,vscode,tailwind,html,css&perline=7"/>
+<img src="https://skillicons.dev/icons?i=laravel,php,react,nextjs,nodejs,js,ts,mysql,git,github,vscode,tailwind,html,css,docker,kubernetes,aws,azure&perline=7"/>
 
 </p>
 
